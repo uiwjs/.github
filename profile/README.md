@@ -19,10 +19,10 @@ The **uiwjs** project has a number of repositories, some important ones include:
 
 **[@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror)** <img align="bottom" height="13" src="https://img.shields.io/npm/dm/@uiw/react-codemirror?label=" /> CodeMirror component for React. @codemirror  
 **[@uiw/react-md-editor](https://github.com/uiwjs/react-md-editor)** <img align="bottom" height="13" src="https://img.shields.io/npm/dm/@uiw/react-md-editor?label=" /> A simple markdown editor with preview, implemented with React.js and TypeScript.  
-**[@uiw/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor)**: A simple code editor with syntax highlighting.  
+**[@uiw/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor)** <img align="bottom" height="13" src="https://img.shields.io/npm/dm/@uiw/react-textarea-code-editor?label=" /> A simple code editor with syntax highlighting.  
+**[@uiw/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview)** <img align="bottom" height="13" src="https://img.shields.io/npm/dm/@uiw/react-markdown-preview?label=" /> React component preview markdown text in web browser.   
 **[@uiw/react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor)**: Monaco Editor component for React.  
 **[@uiw/react-markdown-editor](https://github.com/uiwjs/react-markdown-editor)**: A markdown editor with preview, implemented with React.js and TypeScript.  
-**[@uiw/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview)**: React component preview markdown text in web browser.   
 **[@uiw/react-heat-map](https://github.com/uiwjs/react-heat-map)**: A lightweight calendar heatmap react component built on SVG, customizable of GitHub's contribution graph.  
 **[@uiw/react-amap](https://github.com/uiwjs/react-amap)**: Gaode(高德) map component based on React package, supports React Hook..  
 **[@uiw/react-baidu-map](https://github.com/uiwjs/react-baidu-map)**: Baidu(百度) map component based on React package, supports React Hook.  
