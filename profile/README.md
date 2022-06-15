@@ -13,7 +13,10 @@
 <br />
 <br />
 
-### Repositories
+
+
+<details>
+<summary> 👓 <b>Repositories ...</b></summary>
 
 The **uiwjs** project has a number of repositories, some important ones include:
 
@@ -53,3 +56,4 @@ The **uiwjs** project has a number of repositories, some important ones include:
 **[npm-unpkg](https://github.com/uiwjs/npm-unpkg)**: A web application to view npm package files, Based on unpkg.  
 **[ui-color](https://github.com/uiwjs/ui-color)**: Converting HEX & RGB colors to UIColor/NSColor/Color for both Objective C & Swift.  
 
+</details>
