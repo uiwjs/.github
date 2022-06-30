@@ -39,6 +39,7 @@ The **uiwjs** project has a number of repositories, some important ones include:
 **[@uiw/react-split](https://github.com/uiwjs/react-split)**: A piece of view can be divided into areas where the width or height can be adjusted by dragging.  
 **[@uiw/react-prismjs](https://github.com/uiwjs/react-prismjs)**: React Component for prismjs.  
 **[@uiw/react-clock](https://github.com/uiwjs/react-clock)**: An analog clock for your React app.  
+**[@uiw/react-tabs-draggable](https://github.com/uiwjs/react-tabs-draggable)**: Draggable tabs for React.  
 **[@uiw/file-icons](https://github.com/uiwjs/file-icons)**: File icons in the file tree.  
 **[@uiw/icons](https://github.com/uiwjs/icons)**: The premium icon font for @uiwjs Component Library.  
 **[@uiw/reset-css](https://github.com/uiwjs/reset-css)**: A tiny modern CSS reset.  
