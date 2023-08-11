@@ -13,10 +13,7 @@
 <br />
 <br />
 
-
-
-<details>
-<summary> 👓 <b>Repositories ...</b></summary>
+### 👓 Repositories ...
 
 The **uiwjs** project has a number of repositories, some important ones include:
 
@@ -73,5 +70,3 @@ The **uiwjs** project has a number of repositories, some important ones include:
 | [ui-color](https://github.com/uiwjs/ui-color) | [`#homepage`](https://uiwjs.github.io/ui-color/) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/ui-color?style=flat)](https://github.com/uiwjs/ui-color/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/uiwjs/ui-color?style=flat&label=last)](https://github.com/uiwjs/ui-color/commits) | - | - |
 | [Logo](https://github.com/uiwjs/logo) | [`#homepage`](https://uiwjs.github.io/logo) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/logo?style=flat)](https://github.com/uiwjs/logo/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/uiwjs/logo?style=flat&label=last)](https://github.com/uiwjs/logo/commits) | - | - |
 
-
-</details>
