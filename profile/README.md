@@ -19,7 +19,7 @@ The **uiwjs** project has a number of repositories, some important ones include:
 
 
 
-| project | homepage | stars | repo dependents | downloads | version
+| project | homepage | stars | repo deps | downloads | version
 | :--- | --- | :--- | :--- | :--- | :--- |
 | [uiw](https://github.com/uiwjs/uiw) | [`#homepage`](https://uiwjs.github.io/uiw/) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/uiw?style=flat)](https://github.com/uiwjs/uiw/stargazers) | [![Repo dependents](https://badgen.net/github/dependents-repo/uiwjs/uiw?style=flat&label=deps)](https://github.com/uiwjs/uiw/network/dependents) | [![NPM Downloads](https://badgen.net/npm/dw/uiw?label=npm&color=dd4e4c)](https://www.npmjs.com/package/uiw) | [![npm version](https://img.shields.io/npm/v/uiw.svg)](https://www.npmjs.com/package/uiw) |
 | [react-codemirror](https://github.com/uiwjs/react-codemirror) 🔥🔥🔥 | [`#homepage`](https://uiwjs.github.io/react-codemirror/) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/react-codemirror?style=flat)](https://github.com/uiwjs/react-codemirror/stargazers) | [![Repo dependents](https://badgen.net/github/dependents-repo/uiwjs/react-codemirror?style=flat&label=deps)](https://github.com/uiwjs/react-codemirror/network/dependents) | [![NPM Downloads](https://badgen.net/npm/dw/@uiw/react-codemirror?label=npm&color=dd4e4c)](https://www.npmjs.com/package/@uiw/react-codemirror) | [![npm version](https://img.shields.io/npm/v/@uiw/react-codemirror.svg)](https://www.npmjs.com/package/@uiw/react-codemirror) |
