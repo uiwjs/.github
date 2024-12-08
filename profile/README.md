@@ -77,7 +77,5 @@ The **uiwjs** project has a number of repositories, some important ones include:
 | [npm-unpkg](https://github.com/uiwjs/npm-unpkg) | [`#homepage`](https://uiwjs.github.io/npm-unpkg/) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/npm-unpkg?style=flat)](https://github.com/uiwjs/npm-unpkg/stargazers) | - | - | - |
 | [ui-color](https://github.com/uiwjs/ui-color) | [`#homepage`](https://uiwjs.github.io/ui-color/) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/ui-color?style=flat)](https://github.com/uiwjs/ui-color/stargazers) | - | - | - |
 | [Logo](https://github.com/uiwjs/logo) | [`#homepage`](https://uiwjs.github.io/logo) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/logo?style=flat)](https://github.com/uiwjs/logo/stargazers) | - | - | - |
-
-
-
+| [React documentation for Docker](https://github.com/uiwjs/react.dev-for-docker) | [`#homepage`](https://hub.docker.com/r/wcjiang/react.dev) | [![GitHub stars](https://img.shields.io/github/stars/uiwjs/react.dev-for-docker?style=flat)](https://github.com/uiwjs/uiw/stargazers) | - | [![Docker Pulls](https://img.shields.io/docker/pulls/wcjiang/react.dev)](https://hub.docker.com/r/wcjiang/react.dev) | [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/react.dev)](https://hub.docker.com/r/wcjiang/react.dev) |
 
